@@ -15,19 +15,6 @@ st.set_page_config(
     layout="wide",
     page_icon=""
 )    
-'''
-RowNumber                  1
-CreditScore              619
-Geography             France
-Gender                Female
-Age                       42
-Tenure                     2
-Balance                  0.0
-NumOfProducts              1
-HasCrCard                  1
-IsActiveMember             1
-EstimatedSalary    101348.88
-'''
 
 
 with st.form('form1', clear_on_submit=True):
